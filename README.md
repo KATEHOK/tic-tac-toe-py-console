@@ -76,7 +76,7 @@ When a draw occurs, a corresponding message is displayed, and the user is also p
 - [`pyproject.toml`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/pyproject.toml) - Poetry configuration and dependencies
 - [`poetry.lock`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/poetry.lock)       - Locked dependencies versions
 - [`poetry.toml`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/poetry.toml)       - Poetry local configuration
-- [`README.md`](https://github.com/KATEHOK/tic-tac-toe-py-/blob/main/README.md)           - This file
+- [`README.md`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/README.md)           - This file
 - [`LICENSE`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/LICENSE)               - License file
 - [`.gitignore`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/.gitignore)         - Git ignore rules
 - [`img/`](https://github.com/KATEHOK/tic-tac-toe-py-console/blob/main/img)                      - Directory containing screenshots
